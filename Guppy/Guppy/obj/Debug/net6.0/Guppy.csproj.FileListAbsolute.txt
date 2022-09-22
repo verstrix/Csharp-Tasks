@@ -1,0 +1,15 @@
+D:\Programirane\c#\Guppy\Guppy\bin\Debug\net6.0\Guppy.exe
+D:\Programirane\c#\Guppy\Guppy\bin\Debug\net6.0\Guppy.deps.json
+D:\Programirane\c#\Guppy\Guppy\bin\Debug\net6.0\Guppy.runtimeconfig.json
+D:\Programirane\c#\Guppy\Guppy\bin\Debug\net6.0\Guppy.dll
+D:\Programirane\c#\Guppy\Guppy\bin\Debug\net6.0\Guppy.pdb
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.csproj.AssemblyReference.cache
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.AssemblyInfoInputs.cache
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.AssemblyInfo.cs
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.dll
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\refint\Guppy.dll
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.pdb
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\Guppy.genruntimeconfig.cache
+D:\Programirane\c#\Guppy\Guppy\obj\Debug\net6.0\ref\Guppy.dll

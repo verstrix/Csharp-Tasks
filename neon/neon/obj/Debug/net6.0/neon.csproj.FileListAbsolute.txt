@@ -1,0 +1,15 @@
+D:\Programirane\c#\neon\neon\bin\Debug\net6.0\neon.exe
+D:\Programirane\c#\neon\neon\bin\Debug\net6.0\neon.deps.json
+D:\Programirane\c#\neon\neon\bin\Debug\net6.0\neon.runtimeconfig.json
+D:\Programirane\c#\neon\neon\bin\Debug\net6.0\neon.dll
+D:\Programirane\c#\neon\neon\bin\Debug\net6.0\neon.pdb
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.csproj.AssemblyReference.cache
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.AssemblyInfoInputs.cache
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.AssemblyInfo.cs
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.dll
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\refint\neon.dll
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.pdb
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\neon.genruntimeconfig.cache
+D:\Programirane\c#\neon\neon\obj\Debug\net6.0\ref\neon.dll
