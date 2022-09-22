@@ -1,0 +1,15 @@
+D:\Programirane\c#\Sports\Sports\bin\Debug\net6.0\Sports.exe
+D:\Programirane\c#\Sports\Sports\bin\Debug\net6.0\Sports.deps.json
+D:\Programirane\c#\Sports\Sports\bin\Debug\net6.0\Sports.runtimeconfig.json
+D:\Programirane\c#\Sports\Sports\bin\Debug\net6.0\Sports.dll
+D:\Programirane\c#\Sports\Sports\bin\Debug\net6.0\Sports.pdb
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.csproj.AssemblyReference.cache
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.AssemblyInfoInputs.cache
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.AssemblyInfo.cs
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.dll
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\refint\Sports.dll
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.pdb
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\Sports.genruntimeconfig.cache
+D:\Programirane\c#\Sports\Sports\obj\Debug\net6.0\ref\Sports.dll

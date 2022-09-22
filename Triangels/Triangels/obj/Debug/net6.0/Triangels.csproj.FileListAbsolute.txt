@@ -1,0 +1,15 @@
+D:\Programirane\c#\Triangels\Triangels\bin\Debug\net6.0\Triangels.exe
+D:\Programirane\c#\Triangels\Triangels\bin\Debug\net6.0\Triangels.deps.json
+D:\Programirane\c#\Triangels\Triangels\bin\Debug\net6.0\Triangels.runtimeconfig.json
+D:\Programirane\c#\Triangels\Triangels\bin\Debug\net6.0\Triangels.dll
+D:\Programirane\c#\Triangels\Triangels\bin\Debug\net6.0\Triangels.pdb
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.csproj.AssemblyReference.cache
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.AssemblyInfoInputs.cache
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.AssemblyInfo.cs
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.dll
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\refint\Triangels.dll
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.pdb
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\Triangels.genruntimeconfig.cache
+D:\Programirane\c#\Triangels\Triangels\obj\Debug\net6.0\ref\Triangels.dll

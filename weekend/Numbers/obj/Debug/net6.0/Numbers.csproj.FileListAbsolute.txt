@@ -1,0 +1,15 @@
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\$Mine\Numbers\Numbers\bin\Debug\net6.0\Numbers.exe
+D:\Programirane\c#\$Mine\Numbers\Numbers\bin\Debug\net6.0\Numbers.deps.json
+D:\Programirane\c#\$Mine\Numbers\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+D:\Programirane\c#\$Mine\Numbers\Numbers\bin\Debug\net6.0\Numbers.dll
+D:\Programirane\c#\$Mine\Numbers\Numbers\bin\Debug\net6.0\Numbers.pdb
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.dll
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.pdb
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+D:\Programirane\c#\$Mine\Numbers\Numbers\obj\Debug\net6.0\ref\Numbers.dll
