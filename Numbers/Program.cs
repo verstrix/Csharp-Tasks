@@ -39,5 +39,5 @@
 }
 catch (Exception)
 {
-    throw new Exception("negur");
+    throw new Exception("error");
 }
