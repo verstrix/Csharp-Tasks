@@ -1,0 +1,16 @@
+D:\Programirane\c#\$Mine\Grade\Grade\bin\Debug\net5.0\Grade.exe
+D:\Programirane\c#\$Mine\Grade\Grade\bin\Debug\net5.0\Grade.deps.json
+D:\Programirane\c#\$Mine\Grade\Grade\bin\Debug\net5.0\Grade.runtimeconfig.json
+D:\Programirane\c#\$Mine\Grade\Grade\bin\Debug\net5.0\Grade.runtimeconfig.dev.json
+D:\Programirane\c#\$Mine\Grade\Grade\bin\Debug\net5.0\Grade.dll
+D:\Programirane\c#\$Mine\Grade\Grade\bin\Debug\net5.0\Grade.pdb
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.csproj.AssemblyReference.cache
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.AssemblyInfoInputs.cache
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.AssemblyInfo.cs
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.dll
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\refint\Grade.dll
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.pdb
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\Grade.genruntimeconfig.cache
+D:\Programirane\c#\$Mine\Grade\Grade\obj\Debug\net5.0\ref\Grade.dll
