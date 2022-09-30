@@ -1,0 +1,16 @@
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\bin\Debug\net5.0\BiggerThan9.exe
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\bin\Debug\net5.0\BiggerThan9.deps.json
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\bin\Debug\net5.0\BiggerThan9.runtimeconfig.json
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\bin\Debug\net5.0\BiggerThan9.runtimeconfig.dev.json
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\bin\Debug\net5.0\BiggerThan9.dll
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\bin\Debug\net5.0\BiggerThan9.pdb
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.csproj.AssemblyReference.cache
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.AssemblyInfoInputs.cache
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.AssemblyInfo.cs
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.dll
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\refint\BiggerThan9.dll
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.pdb
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\BiggerThan9.genruntimeconfig.cache
+D:\Programirane\c#\$Mine\BiggerThan9\BiggerThan9\obj\Debug\net5.0\ref\BiggerThan9.dll
