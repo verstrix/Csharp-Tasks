@@ -1,0 +1,16 @@
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.csproj.AssemblyReference.cache
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.AssemblyInfoInputs.cache
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.AssemblyInfo.cs
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\bin\Debug\net5.0\TheWeatherOutside.exe
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\bin\Debug\net5.0\TheWeatherOutside.deps.json
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\bin\Debug\net5.0\TheWeatherOutside.runtimeconfig.json
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\bin\Debug\net5.0\TheWeatherOutside.runtimeconfig.dev.json
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\bin\Debug\net5.0\TheWeatherOutside.dll
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\bin\Debug\net5.0\TheWeatherOutside.pdb
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.dll
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\refint\TheWeatherOutside.dll
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.pdb
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\TheWeatherOutside.genruntimeconfig.cache
+D:\Programirane\c#\$Mine\TheWeatherOutside\TheWeatherOutside\obj\Debug\net5.0\ref\TheWeatherOutside.dll
