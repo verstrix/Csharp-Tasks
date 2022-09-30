@@ -1,0 +1,16 @@
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\bin\Debug\net5.0\AreaOfTriangle.exe
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\bin\Debug\net5.0\AreaOfTriangle.deps.json
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\bin\Debug\net5.0\AreaOfTriangle.runtimeconfig.json
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\bin\Debug\net5.0\AreaOfTriangle.runtimeconfig.dev.json
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\bin\Debug\net5.0\AreaOfTriangle.dll
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\bin\Debug\net5.0\AreaOfTriangle.pdb
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.csproj.AssemblyReference.cache
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.AssemblyInfoInputs.cache
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.AssemblyInfo.cs
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.dll
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\refint\AreaOfTriangle.dll
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.pdb
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\AreaOfTriangle.genruntimeconfig.cache
+D:\Programirane\c#\$Mine\30.09\AreaOfTriangle\obj\Debug\net5.0\ref\AreaOfTriangle.dll

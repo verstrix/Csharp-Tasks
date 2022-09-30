@@ -1,0 +1,16 @@
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\bin\Debug\net5.0\AreaAndPerimeterOfCircle.exe
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\bin\Debug\net5.0\AreaAndPerimeterOfCircle.deps.json
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\bin\Debug\net5.0\AreaAndPerimeterOfCircle.runtimeconfig.json
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\bin\Debug\net5.0\AreaAndPerimeterOfCircle.runtimeconfig.dev.json
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\bin\Debug\net5.0\AreaAndPerimeterOfCircle.dll
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\bin\Debug\net5.0\AreaAndPerimeterOfCircle.pdb
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.csproj.AssemblyReference.cache
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.AssemblyInfoInputs.cache
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.AssemblyInfo.cs
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.dll
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\refint\AreaAndPerimeterOfCircle.dll
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.pdb
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\AreaAndPerimeterOfCircle.genruntimeconfig.cache
+D:\Programirane\c#\$Mine\30.09\AreaAndPerimeterOfCircle\obj\Debug\net5.0\ref\AreaAndPerimeterOfCircle.dll
